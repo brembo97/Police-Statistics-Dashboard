@@ -1,0 +1,559 @@
+Provincia,Canton,Distrito,Poblacion
+San Jose,San Jose,,339581
+San Jose,San Jose,Carmen,3070
+San Jose,San Jose,Merced,14846
+San Jose,San Jose,Hospital,23099
+San Jose,San Jose,Catedral,15382
+San Jose,San Jose,Zapote,21566
+San Jose,San Jose,San Francisco de Dos Rios,23364
+San Jose,San Jose,Uruca,40027
+San Jose,San Jose,Mata Redonda,9940
+San Jose,San Jose,Pavas,85101
+San Jose,San Jose,Hatillo,58410
+San Jose,San Jose,San Sebastian,44776
+San Jose,Escazu,,68050
+San Jose,Escazu,Escazu,13580
+San Jose,Escazu,San Antonio,26735
+San Jose,Escazu,San Rafael,27735
+San Jose,Desamparados,,238312
+San Jose,Desamparados,Desamparados,36942
+San Jose,Desamparados,San Miguel,36652
+San Jose,Desamparados,San Juan de Dios,23009
+San Jose,Desamparados,San Rafael Arriba,17508
+San Jose,Desamparados,San Antonio,10946
+San Jose,Desamparados,Frailes,4419
+San Jose,Desamparados,Patarra,14035
+San Jose,Desamparados,San Cristobal,4576
+San Jose,Desamparados,Rosario,3600
+San Jose,Desamparados,Damas,14955
+San Jose,Desamparados,San Rafael Abajo,26068
+San Jose,Desamparados,Gravilias,16685
+San Jose,Desamparados,Los Guido,28917
+San Jose,Puriscal,,36987
+San Jose,Puriscal,Santiago,12311
+San Jose,Puriscal,Mercedes Sur,6750
+San Jose,Puriscal,Barbacoas,4221
+San Jose,Puriscal,Grifo Alto,1410
+San Jose,Puriscal,San Rafael,1931
+San Jose,Puriscal,Candelaria,1659
+San Jose,Puriscal,Desamparaditos,757
+San Jose,Puriscal,San Antonio,4452
+San Jose,Puriscal,Chires,3496
+San Jose,Tarrazu,,18102
+San Jose,Tarrazu,San Marcos,10928
+San Jose,Tarrazu,San Lorenzo,5085
+San Jose,Tarrazu,San Carlos,2089
+San Jose,Aserri,,61911
+San Jose,Aserri,Aserri,29491
+San Jose,Aserri,Tarbaca,1601
+San Jose,Aserri,Vuelta de Jorco,7014
+San Jose,Aserri,San Gabriel,6594
+San Jose,Aserri,Legua,1686
+San Jose,Aserri,Monterry,533
+San Jose,Aserri,Salitrillos,14992
+San Jose,Mora,,29555
+San Jose,Mora,Colon,17037
+San Jose,Mora,Guayabo,5092
+San Jose,Mora,Tabarcia,4864
+San Jose,Mora,Piedras Negras,464
+San Jose,Mora,Picagres,846
+San Jose,Mora,Jaris,1252
+San Jose,Goicoechea,,134855
+San Jose,Goicoechea,Guadalupe,22542
+San Jose,Goicoechea,San Francisco,2339
+San Jose,Goicoechea,Calle Blancos,22504
+San Jose,Goicoechea,Mata Platano,20262
+San Jose,Goicoechea,Ipis,30472
+San Jose,Goicoechea,Rancho Redondo,3046
+San Jose,Goicoechea,Purral,33690
+San Jose,Santa Ana,,58159
+San Jose,Santa Ana,Santa Ana,12694
+San Jose,Santa Ana,Salitral,5159
+San Jose,Santa Ana,Pozos,19183
+San Jose,Santa Ana,Uruca,8518
+San Jose,Santa Ana,Piedades,9605
+San Jose,Santa Ana,Brasil,3000
+San Jose,Alajuelita,,90543
+San Jose,Alajuelita,Alajuelita,12960
+San Jose,Alajuelita,San Josecito,12192
+San Jose,Alajuelita,San Antonio,5594
+San Jose,Alajuelita,Concepcion,21881
+San Jose,Alajuelita,San Felipe,37916
+San Jose,Vasquez de Coronado,,69500
+San Jose,Vasquez de Coronado,San Isidro,18316
+San Jose,Vasquez de Coronado,San Rafael,8161
+San Jose,Vasquez de Coronado,Dulce Nombre de Jesus,11418
+San Jose,Vasquez de Coronado,Patalillo,23566
+San Jose,Vasquez de Coronado,Cascajal,8039
+San Jose,Acosta,,21519
+San Jose,Acosta,San Ignacio,9240
+San Jose,Acosta,Guaitil,2584
+San Jose,Acosta,Palmichal,5049
+San Jose,Acosta,Cangrejal,2044
+San Jose,Acosta,Sabanillas,2602
+San Jose,Tibas,,82889
+San Jose,Tibas,San Juan,25974
+San Jose,Tibas,Cinco Esquinas,8097
+San Jose,Tibas,Anselmo Llorente,12521
+San Jose,Tibas,Leon XIII,18976
+San Jose,Tibas,Colima,17321
+San Jose,Moravia,,61542
+San Jose,Moravia,San Vicente,32146
+San Jose,Moravia,San Jeronimo,7030
+San Jose,Moravia,La Trinidad,22366
+San Jose,Montes de Oca,,61901
+San Jose,Montes de Oca,San Pedro,29187
+San Jose,Montes de Oca,Sabanilla,13656
+San Jose,Montes de Oca,Mercedes,5930
+San Jose,Montes de Oca,San Rafael,13128
+San Jose,Turrubares,,6619
+San Jose,Turrubares,San Pablo,1519
+San Jose,Turrubares,San Pedro,815
+San Jose,Turrubares,San Juan de Mata,1439
+San Jose,Turrubares,San Luis,673
+San Jose,Turrubares,Carara,2173
+San Jose,Dota,,7788
+San Jose,Dota,Santa Maria,5067
+San Jose,Dota,Jardin,681
+San Jose,Dota,Copey,2040
+San Jose,Curridabat,,77691
+San Jose,Curridabat,Curridabat,32475
+San Jose,Curridabat,Granadilla,18166
+San Jose,Curridabat,Sanchez,6556
+San Jose,Curridabat,Tirrases,20494
+San Jose,Perez Zeledon,,142550
+San Jose,Perez Zeledon,San Isidro de El General,47842
+San Jose,Perez Zeledon,General,6814
+San Jose,Perez Zeledon,Daniel Flores,35176
+San Jose,Perez Zeledon,Rivas,7255
+San Jose,Perez Zeledon,San Pedro,9568
+San Jose,Perez Zeledon,Platanares,7552
+San Jose,Perez Zeledon,Pejibaye,8230
+San Jose,Perez Zeledon,Cajon,9090
+San Jose,Perez Zeledon,Baru,2809
+San Jose,Perez Zeledon,Rio Nuevo,3418
+San Jose,Perez Zeledon,Paramo,4796
+San Jose,Leon Cortes,,13339
+San Jose,Leon Cortes,San Pablo,4467
+San Jose,Leon Cortes,San Andres,1671
+San Jose,Leon Cortes,Llano Bonito,2187
+San Jose,Leon Cortes,San Isidro,1774
+San Jose,Leon Cortes,Santa Cruz,2037
+San Jose,Leon Cortes,San Antonio,1203
+Alajuela,Alajuela,,302074
+Alajuela,Alajuela,Alajuela,47477
+Alajuela,Alajuela,San Jose,49224
+Alajuela,Alajuela,Carrizal,8328
+Alajuela,Alajuela,San Antonio,29462
+Alajuela,Alajuela,Guacima,24598
+Alajuela,Alajuela,San Isidro,20929
+Alajuela,Alajuela,Sabanilla,11389
+Alajuela,Alajuela,San Rafael,31853
+Alajuela,Alajuela,Rio Segundo,12698
+Alajuela,Alajuela,Desamparados,31261
+Alajuela,Alajuela,Turrucares,8975
+Alajuela,Alajuela,Tambor,13256
+Alajuela,Alajuela,La Garita,8894
+Alajuela,Alajuela,Sarapiqui,3730
+Alajuela,San Ramon,,90793
+Alajuela,San Ramon,San Ramon,9058
+Alajuela,San Ramon,Santiago,5295
+Alajuela,San Ramon,San Juan,12658
+Alajuela,San Ramon,Piedades Norte,9039
+Alajuela,San Ramon,Piedades Sur,4349
+Alajuela,San Ramon,San Rafael,10287
+Alajuela,San Ramon,San Isidro,5580
+Alajuela,San Ramon,Los Angeles,9293
+Alajuela,San Ramon,Alfaro,7918
+Alajuela,San Ramon,Volio,2576
+Alajuela,San Ramon,Concepcion,2689
+Alajuela,San Ramon,Zapotal,490
+Alajuela,San Ramon,Peñas Blancas,11561
+Alajuela,Grecia,,75383
+Alajuela,Grecia,Grecia,15947
+Alajuela,Grecia,San Isidro,6858
+Alajuela,Grecia,San Jose,9542
+Alajuela,Grecia,San Roque,12836
+Alajuela,Grecia,Tacares,9378
+Alajuela,Rio Cuarto,Rio Cuarto,14814
+Alajuela,Grecia,Puente de Piedra,12378
+Alajuela,Grecia,Bolivar,8444
+Alajuela,San Mateo,,6931
+Alajuela,San Mateo,San Mateo,3007
+Alajuela,San Mateo,Desmonte,1126
+Alajuela,San Mateo,Jesus Maria,1422
+Alajuela,San Mateo,Labrador,1376
+Alajuela,Atenas,,28424
+Alajuela,Atenas,Atenas,7865
+Alajuela,Atenas,Jesus,4149
+Alajuela,Atenas,Mercedes,3607
+Alajuela,Atenas,San Isidro,3287
+Alajuela,Atenas,Concepcion,4005
+Alajuela,Atenas,San Jose,2193
+Alajuela,Atenas,Santa Eulalia,2353
+Alajuela,Atenas,Escobal,965
+Alajuela,Naranjo,,47267
+Alajuela,Naranjo,Naranjo,16890
+Alajuela,Naranjo,San Miguel,5372
+Alajuela,Naranjo,San Jose,3490
+Alajuela,Naranjo,Cirri Sur,5204
+Alajuela,Naranjo,San Jeronimo,3794
+Alajuela,Naranjo,San Juan,3476
+Alajuela,Naranjo,Rosario,4298
+Alajuela,Naranjo,Palmitos,4743
+Alajuela,Palmares,,39525
+Alajuela,Palmares,Palmares,3750
+Alajuela,Palmares,Zaragoza,9326
+Alajuela,Palmares,Buenos Aires,8467
+Alajuela,Palmares,Santiago,3176
+Alajuela,Palmares,Candelaria,2305
+Alajuela,Palmares,Esquipulas,7842
+Alajuela,Palmares,Granja,4659
+Alajuela,Poas,,32583
+Alajuela,Poas,San Pedro,7980
+Alajuela,Poas,San Juan,5238
+Alajuela,Poas,San Rafael,6165
+Alajuela,Poas,Carrillos,10413
+Alajuela,Poas,Sabana Redonda,2787
+Alajuela,Orotina,,22786
+Alajuela,Orotina,Orotina,10218
+Alajuela,Orotina,Mastate,2070
+Alajuela,Orotina,Hacienda Vieja,1168
+Alajuela,Orotina,Coyolar,6971
+Alajuela,Orotina,Ceiba,2359
+Alajuela,San Carlos,,191126
+Alajuela,San Carlos,Quesada,44583
+Alajuela,San Carlos,Florencia,17365
+Alajuela,San Carlos,Buenavista,386
+Alajuela,San Carlos,Aguas Zarcas,23989
+Alajuela,San Carlos,Venecia,11166
+Alajuela,San Carlos,Pital,22412
+Alajuela,San Carlos,Fortuna,18119
+Alajuela,San Carlos,Tigra,7447
+Alajuela,San Carlos,Palmera,7377
+Alajuela,San Carlos,Venado,2077
+Alajuela,San Carlos,Cutris,13843
+Alajuela,San Carlos,Monterrey,4063
+Alajuela,San Carlos,Pocosol,18299
+Alajuela,Zarcero,,13886
+Alajuela,Zarcero,Zarcero,4300
+Alajuela,Zarcero,Laguna,1910
+Alajuela,Zarcero,Tapezco,1486
+Alajuela,Zarcero,Guadalupe,1338
+Alajuela,Zarcero,Palmira,1599
+Alajuela,Zarcero,Zapote,880
+Alajuela,Zarcero,Brisas,2373
+Alajuela,Sarchi,,21479
+Alajuela,Sarchi,Sarchi Norte,8137
+Alajuela,Sarchi,Sarchi Sur,6146
+Alajuela,Sarchi,Toro Amarillo,364
+Alajuela,Sarchi,San Pedro,4185
+Alajuela,Sarchi,Rodriguez,2647
+Alajuela,Upala,,51930
+Alajuela,Upala,Upala,15395
+Alajuela,Upala,Aguas Claras,5564
+Alajuela,Upala,San Jose (Pizote),8433
+Alajuela,Upala,Bijagua,5184
+Alajuela,Upala,Delicias,5210
+Alajuela,Upala,Dos Rios,3782
+Alajuela,Upala,Yolillal,3887
+Alajuela,Upala,Canalete,4475
+Alajuela,Los Chiles,,31546
+Alajuela,Los Chiles,Los Chiles,18776
+Alajuela,Los Chiles,Cano Negro,2197
+Alajuela,Los Chiles,El Amparo,7350
+Alajuela,Los Chiles,San Jorge,3223
+Alajuela,Guatuso,,18541
+Alajuela,Guatuso,San Rafael,9461
+Alajuela,Guatuso,Buenavista,1886
+Alajuela,Guatuso,Cote,1061
+Alajuela,Guatuso,Katira,6133
+Cartago,Cartago,,160457
+Cartago,Cartago,Oriental,12433
+Cartago,Cartago,Occidental,10319
+Cartago,Cartago,Carmen,18804
+Cartago,Cartago,San Nicolas,28557
+Cartago,Cartago,Aguacaliente,34832
+Cartago,Cartago,Guadalupe,15932
+Cartago,Cartago,Corralillo,11662
+Cartago,Cartago,Tierra Blanca,5630
+Cartago,Cartago,Dulce Nombre de Jesus,11595
+Cartago,Cartago,Llano Grande,4840
+Cartago,Cartago,Quebradilla,5853
+Cartago,Paraiso,,61503
+Cartago,Paraiso,Paraiso,21204
+Cartago,Paraiso,Santiago,6215
+Cartago,Paraiso,Orosi,9849
+Cartago,Paraiso,Cachi,5747
+Cartago,Paraiso,Llanos de Santa Lucia,18488
+Cartago,La Union,,108990
+Cartago,La Union,Tres Rios,9322
+Cartago,La Union,San Diego,24008
+Cartago,La Union,San Juan,15078
+Cartago,La Union,San Rafael,15432
+Cartago,La Union,Concepcion,18232
+Cartago,La Union,Dulce Nombre,8705
+Cartago,La Union,San Ramon,4343
+Cartago,La Union,Rio Azul,13870
+Cartago,Jimenez,,16216
+Cartago,Jimenez,Juan Vinas,7092
+Cartago,Jimenez,Tucurrique,5487
+Cartago,Jimenez,Pejibaye,3637
+Cartago,Turrialba,,73575
+Cartago,Turrialba,Turrialba,27262
+Cartago,Turrialba,La Suiza,7992
+Cartago,Turrialba,Peralta,615
+Cartago,Turrialba,Santa Cruz,3724
+Cartago,Turrialba,Santa Teresita,5314
+Cartago,Turrialba,Pavones,4622
+Cartago,Turrialba,Tuis,2999
+Cartago,Turrialba,Tayutic,2563
+Cartago,Turrialba,Santa Rosa,5674
+Cartago,Turrialba,Tres Equis,1948
+Cartago,Turrialba,La Isabel,6336
+Cartago,Turrialba,El Chirripo,4526
+Cartago,Alvarado,,15092
+Cartago,Alvarado,Pacayas,5842
+Cartago,Alvarado,Cervantes,6641
+Cartago,Alvarado,Capellades,2609
+Cartago,Oreamuno,,48830
+Cartago,Oreamuno,San Rafael,28642
+Cartago,Oreamuno,Cot,10700
+Cartago,Oreamuno,Potrero Cerrado,2567
+Cartago,Oreamuno,Cipreses,4034
+Cartago,Oreamuno,Santa Rosa,2887
+Cartago,El Guarco,,45154
+Cartago,El Guarco,El Tejar,26298
+Cartago,El Guarco,San Isidro,11078
+Cartago,El Guarco,Tobosi,7341
+Cartago,El Guarco,Patio de Agua,437
+Heredia,Heredia,,138562
+Heredia,Heredia,Heredia,19198
+Heredia,Heredia,Mercedes,28731
+Heredia,Heredia,San Francisco,56285
+Heredia,Heredia,Ulloa,33443
+Heredia,Heredia,VaraBlanca,905
+Heredia,Barva,,45106
+Heredia,Barva,Barva,5021
+Heredia,Barva,San Pedro,11128
+Heredia,Barva,San Pablo,9383
+Heredia,Barva,San Roque,5146
+Heredia,Barva,Santa Lucia,8002
+Heredia,Barva,San Jose de la Monta?a,6426
+Heredia,Santo Domingo,,47672
+Heredia,Santo Domingo,Santo Domingo,5112
+Heredia,Santo Domingo,San Vicente,7698
+Heredia,Santo Domingo,San Miguel,7604
+Heredia,Santo Domingo,Paracito,2670
+Heredia,Santo Domingo,Santo Tomas,7599
+Heredia,Santo Domingo,Santa Rosa,8762
+Heredia,Santo Domingo,Tures,4223
+Heredia,Santo Domingo,Para,4004
+Heredia,Santa Barbara,,41047
+Heredia,Santa Barbara,Santa Barbara,6246
+Heredia,Santa Barbara,San Pedro,6497
+Heredia,Santa Barbara,San Juan,8693
+Heredia,Santa Barbara,Jesus,10956
+Heredia,Santa Barbara,Santo Domingo,3434
+Heredia,Santa Barbara,Puraba,5221
+Heredia,San Rafael,,53197
+Heredia,San Rafael,San Rafael,10530
+Heredia,San Rafael,San Josecito,13382
+Heredia,San Rafael,Santiago,9805
+Heredia,San Rafael,Angeles,12155
+Heredia,San Rafael,Concepcion,7325
+Heredia,San Isidro,,22500
+Heredia,San Isidro,San Isidro,6301
+Heredia,San Isidro,San Jose,8354
+Heredia,San Isidro,Concepcion,2936
+Heredia,San Isidro,San Francisco,4909
+Heredia,Belen,,25783
+Heredia,Belen,San Antonio,11363
+Heredia,Belen,La Ribera,7300
+Heredia,Belen,Asuncion,7120
+Heredia,Flores,,24028
+Heredia,Flores,San Joaquin,8166
+Heredia,Flores,Barrantes,5019
+Heredia,Flores,Llorente,10843
+Heredia,San Pablo,,30586
+Heredia,San Pablo,San Pablo,21079
+Heredia,San Pablo,Rincon de Sabanilla,9507
+Heredia,Sarapiqui,,76571
+Heredia,Sarapiqui,Puerto Viejo,27335
+Heredia,Sarapiqui,La Virgen,14494
+Heredia,Sarapiqui,Horquetas,31559
+Heredia,Sarapiqui,Llanuras del Gaspar,1794
+Heredia,Sarapiqui,Cure?a,1389
+Guanacaste,Liberia,,72929
+Guanacaste,Liberia,Liberia,61509
+Guanacaste,Liberia,Cañas Dulces,3756
+Guanacaste,Liberia,Mayorga,1875
+Guanacaste,Liberia,Nacascolo,2810
+Guanacaste,Liberia,Curubande,2979
+Guanacaste,Nicoya,,54958
+Guanacaste,Nicoya,Nicoya,25971
+Guanacaste,Nicoya,Mansion,5745
+Guanacaste,Nicoya,San Antonio,6974
+Guanacaste,Nicoya,Quebrada Honda,2573
+Guanacaste,Nicoya,Samara,4373
+Guanacaste,Nicoya,Nosara,6405
+Guanacaste,Nicoya,Belen de Nosarita,2917
+Guanacaste,Santa Cruz,,65345
+Guanacaste,Santa Cruz,Santa Cruz,26134
+Guanacaste,Santa Cruz,Bolson,2010
+Guanacaste,Santa Cruz,Veintisiete de Abril,8313
+Guanacaste,Santa Cruz,Tempate,5888
+Guanacaste,Santa Cruz,Cartagena,4620
+Guanacaste,Santa Cruz,Cuajiniquil,2350
+Guanacaste,Santa Cruz,Diria,4609
+Guanacaste,Santa Cruz,Cabo Velas,3979
+Guanacaste,Santa Cruz,Tamarindo,7442
+Guanacaste,Bagaces,,23047
+Guanacaste,Bagaces,Bagaces,14974
+Guanacaste,Bagaces,Fortuna,3005
+Guanacaste,Bagaces,Mogote,3923
+Guanacaste,Bagaces,Rio Naranjo,1145
+Guanacaste,Carrillo,,43251
+Guanacaste,Carrillo,Filadelfia,8527
+Guanacaste,Carrillo,Palmira,6144
+Guanacaste,Carrillo,Sardinal,18119
+Guanacaste,Carrillo,Belen,10461
+Guanacaste,Cañas,,31571
+Guanacaste,Cañas,Cañas,25027
+Guanacaste,Cañas,Palmira,1299
+Guanacaste,Cañas,San Miguel,1998
+Guanacaste,Cañas,Bebedero,2473
+Guanacaste,Cañas,Porozal,774
+Guanacaste,Abangares,,19581
+Guanacaste,Abangares,Las Juntas,10125
+Guanacaste,Abangares,Sierra,2704
+Guanacaste,Abangares,San Juan,1778
+Guanacaste,Abangares,Colorado,4974
+Guanacaste,Tilaran,,21337
+Guanacaste,Tilaran,Tilaran,9157
+Guanacaste,Tilaran,Quebrada Grande,2997
+Guanacaste,Tilaran,Tronadora,1968
+Guanacaste,Tilaran,Santa Rosa,2116
+Guanacaste,Tilaran,Libano,948
+Guanacaste,Tilaran,Tierras Morenas,1509
+Guanacaste,Tilaran,Arenal,2642
+Guanacaste,Nandayure,,11675
+Guanacaste,Nandayure,Carmona,2552
+Guanacaste,Nandayure,Santa Rita,1465
+Guanacaste,Nandayure,Zapotal,1259
+Guanacaste,Nandayure,San Pablo,2321
+Guanacaste,Nandayure,Porvenir,766
+Guanacaste,Nandayure,Bejuco,3312
+Guanacaste,La Cruz,,25587
+Guanacaste,La Cruz,La Cruz,12008
+Guanacaste,La Cruz,Santa Cecilia,8414
+Guanacaste,La Cruz,Garita,2418
+Guanacaste,La Cruz,Santa Elena,2747
+Guanacaste,Hojancha,,7855
+Guanacaste,Hojancha,Hojancha,4539
+Guanacaste,Hojancha,Monte Romo,726
+Guanacaste,Hojancha,Puerto Carrillo,1835
+Guanacaste,Hojancha,Huacas,755
+Puntarenas,Puntarenas,,134400
+Puntarenas,Puntarenas,Puntarenas,10034
+Puntarenas,Puntarenas,Pitahaya,2551
+Puntarenas,Puntarenas,Chomes,6258
+Puntarenas,Puntarenas,Lepanto,10181
+Puntarenas,Puntarenas,Paquera,7931
+Puntarenas,Puntarenas,Manzanillo,3249
+Puntarenas,Puntarenas,Guacimal,1125
+Puntarenas,Puntarenas,Barranca,36088
+Puntarenas,Puntarenas,Monte Verde,4708
+Puntarenas,Puntarenas,Cobano,9178
+Puntarenas,Puntarenas,Chacarita,19597
+Puntarenas,Puntarenas,Chira,1643
+Puntarenas,Puntarenas,Acapulco,1481
+Puntarenas,Puntarenas,El Roble,19628
+Puntarenas,Puntarenas,Arancibia,748
+Puntarenas,Esparza,,36547
+Puntarenas,Esparza,Espiritu Santo,20899
+Puntarenas,Esparza,San Juan Grande,8141
+Puntarenas,Esparza,Macacoma,5027
+Puntarenas,Esparza,San Rafael,1589
+Puntarenas,Esparza,San Jeronimo,891
+Puntarenas,Buenos Aires,,51437
+Puntarenas,Buenos Aires,Buenos Aires,25927
+Puntarenas,Buenos Aires,Volcan,3812
+Puntarenas,Buenos Aires,Potrero  Grande,6445
+Puntarenas,Buenos Aires,Boruca,3264
+Puntarenas,Buenos Aires,Pilas,1763
+Puntarenas,Buenos Aires,Colinas,1418
+Puntarenas,Buenos Aires,Changuena,2890
+Puntarenas,Buenos Aires,Biolley,2628
+Puntarenas,Buenos Aires,Brunka,3290
+Puntarenas,Montes de Oro,,13887
+Puntarenas,Montes de Oro,Miramar,8663
+Puntarenas,Montes de Oro,Union,1454
+Puntarenas,Montes de Oro,San Isidro,3770
+Puntarenas,Osa,,30647
+Puntarenas,Osa,Cortes,8514
+Puntarenas,Osa,Palmar,9687
+Puntarenas,Osa,Sierpe,3540
+Puntarenas,Osa,Bahia Ballena,3366
+Puntarenas,Osa,Piedras Blancas,4421
+Puntarenas,Osa,Drake,1119
+Puntarenas,Quepos,,31631
+Puntarenas,Quepos,Quepos,23631
+Puntarenas,Quepos,Savegre,3907
+Puntarenas,Quepos,Naranjito,4093
+Puntarenas,Golfito,,44055
+Puntarenas,Golfito,Golfito,11771
+Puntarenas,Golfito,Jimenez,11307
+Puntarenas,Golfito,Guaycara,13762
+Puntarenas,Golfito,Pavon,7215
+Puntarenas,Coto Brus,,44092
+Puntarenas,Coto Brus,San Vito,16592
+Puntarenas,Coto Brus,Sabalito,13084
+Puntarenas,Coto Brus,Agua buena,7001
+Puntarenas,Coto Brus,Limoncito,4123
+Puntarenas,Coto Brus,Pittier,3292
+Puntarenas,Parrita,,19079
+Puntarenas,Parrita,Parrita,19079
+Puntarenas,Corredores,,50690
+Puntarenas,Corredores,Corredor,19700
+Puntarenas,Corredores,La Cuesta,4944
+Puntarenas,Corredores,Canoas,14684
+Puntarenas,Corredores,Laurel,11362
+Puntarenas,Garabito,,24083
+Puntarenas,Garabito,Jaco,16342
+Puntarenas,Garabito,Tarcoles,7741
+Limon,Limon,,98848
+Limon,Limon,Limon,61501
+Limon,Limon,Valle La Estrella,19750
+Limon,Limon,Rio Blanco,9559
+Limon,Limon,Matama,8038
+Limon,Pococi,,144339
+Limon,Pococi,Guapiles,36366
+Limon,Pococi,Jimenez,12170
+Limon,Pococi,Rita,27515
+Limon,Pococi,Roxana,19131
+Limon,Pococi,Cariari,37996
+Limon,Pococi,Colorado,4743
+Limon,Pococi,La Colonia,6418
+Limon,Siquirres,,63594
+Limon,Siquirres,Siquirres,34164
+Limon,Siquirres,Pacuarito,10237
+Limon,Siquirres,Florida,2550
+Limon,Siquirres,Germania,2912
+Limon,Siquirres,Cairo,7165
+Limon,Siquirres,Alegria,6566
+Limon,Talamanca,,40681
+Limon,Talamanca,Bratsi,9450
+Limon,Talamanca,Sixaola,11310
+Limon,Talamanca,Cahuita,12106
+Limon,Talamanca,Telire,7815
+Limon,Matina,,44715
+Limon,Matina,Matina,10234
+Limon,Matina,Batan,19525
+Limon,Matina,Carrandi,14956
+Limon,Guacimo,,52270
+Limon,Guacimo,Guacimo,23606
+Limon,Guacimo,Merecedes,2231
+Limon,Guacimo,Pocora,7909
+Limon,Guacimo,Rio Jimenez,10941
+Limon,Guacimo,Duacari,7583

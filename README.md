@@ -24,8 +24,8 @@ crime related topics.
 * Delito: Crime category
 * SubDelito: Crime subcategory
 * Fecha: Date of incidence
-* Victima: Victim category
-* SubVictima: Victim subcategory
+* Victim: Victim category
+* SubVictim: Victim subcategory
 * Adult: Over 18 years old 
 * Gender: Gender of the victim
 * Nationality: Nationality of the victim
